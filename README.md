@@ -9,16 +9,16 @@ For each spot, the installation costs have been calculated. They rely on the fac
 
 ## Cable lengths and Deploying costs to each spot 
 
-| Spot | Length [m] | Cost for Battery [\$] | Cost for PDU [\$] | MaxPDURate [kVA] |
+|  Spot |  Length [m] |  Cost for Battery [\$] |  Cost for PDU [\$] |  MaxPDURate [kVA] |
 | --- | --- | --- | --- | --- |
-| 1 | 6 | 1000 | 500 | 30 |
-| 2 | 10 | 700 | 350 | 40 |
-| 3 | 12 | 800 | 550 | 80 |
-| 4 | 15 | 400 | 100 | 60 |
-| 5 | 20 | 650 | 250 | 20 |
-| 6 | 6 | 750 | 400 | 50 |
-| 7 | 8 | 950 | 950 | 20 |
-| 8 | 8 | 950 | 950 | 20 |
+|  1 |   6 |   1000 |  500 |  30 |
+|  2 |  10 |  700 |  350 |  40 |
+|  3 |  12 |  800 |  550 |  80 |
+|  4 |  15 |  400 |  100 |  60 |
+|  5 |  20 |  650 |  250 |  20 |
+|  6 |  6 |  750 |  400 |  50 |
+|  7 |  8 |  950 |  950 |  20 |
+|  8 |  8 |  950 |  950 |  20 |
 
 Due to further situations found when defining the cable routing and sizing, which could be physical or even of availability or budgetary, other limitations showed up. It has not been always feasible to deploy thick cables between the UPS and each PDU. This limits the power that could flow. This constraint has been found concerning just for PDU and not for Batteries. The last column in the prior table shows the maximum rate in kVA that could possibly flow to each spot.
 
